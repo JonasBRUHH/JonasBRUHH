@@ -19,10 +19,6 @@
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermesz_r/)
 [![blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199013636490/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBRUHH&layout=compact)]()
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasBRUHH&theme=dark&show_icons=true)
-
 👨‍💻 <b>**I'm currently learning:**</b>
 <div>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
